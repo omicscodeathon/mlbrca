@@ -1,0 +1,3 @@
+ 0 benign
+ 1 benign_without_callback
+ 2 malignant
