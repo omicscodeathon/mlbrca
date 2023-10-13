@@ -10,7 +10,7 @@ class NavBar extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: [
           UserAccountsDrawerHeader(
-            accountName: const Text("mlbraca"),
+            accountName: const Text("mlbrca"),
             accountEmail: const Text("muwongelawrence44@gmail.com"),
             currentAccountPicture: CircleAvatar(
               child: ClipOval(

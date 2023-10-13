@@ -190,7 +190,7 @@ PreferredSizeWidget buildAppBarWidget(BuildContext context) {
           color: Colors.white,
         ),
         onPressed: () => Navigator.pop(context)),
-    title: const Text('mlbraca', style: TextStyle(fontSize: 20)),
+    title: const Text('mlbrca', style: TextStyle(fontSize: 20)),
     actions: <Widget>[
       IconButton(
         icon: const Icon(Icons.refresh),
@@ -201,7 +201,7 @@ PreferredSizeWidget buildAppBarWidget(BuildContext context) {
       IconButton(
         icon: const Icon(Icons.more_vert),
         onPressed: () {
-          print("more verting in the application.");
+          print("More verting in the application.");
         },
       ),
     ],
