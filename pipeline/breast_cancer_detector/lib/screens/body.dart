@@ -215,7 +215,7 @@ class _WeedRecognizerState extends State<WeedRecognizer> {
       //       print("Menu being  displayed");
       //     },
       // ),
-      title: const Text('mlbraca', style: TextStyle(fontSize: 20)),
+      title: const Text('mlbrca', style: TextStyle(fontSize: 20)),
       actions: <Widget>[
         IconButton(
           icon: const Icon(Icons.refresh),
@@ -267,7 +267,7 @@ class _WeedRecognizerState extends State<WeedRecognizer> {
                       child: Container(
                           padding: const EdgeInsets.all(30.0),
                           child: const Text(
-                            "Welcome to the mlbraca  mobile application, built to let you detect stage one cancer  diseases in mammogram images  and then enable early intervation through timely decision making.",
+                            "Welcome to the mlbrca  mobile application, built to let you detect stage one cancer  diseases in mammogram images  and then enable early intervation through timely decision making.",
                             style:
                                 TextStyle(fontSize: 15.0, color: Colors.white),
                           )),
